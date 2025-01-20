@@ -61,8 +61,8 @@ document.getElementById('home-link').addEventListener('click', function (e) {
 });
 
 const snowflakes = 400;
-const height = window.innerHeight; // Dynamically set height
-const width = window.innerWidth; // Dynamically set width
+const height = window.innerHeight; 
+const width = window.innerWidth; 
 let y = -1200;
 
 function setup() {
